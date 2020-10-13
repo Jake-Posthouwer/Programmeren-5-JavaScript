@@ -1,6 +1,6 @@
 let width = 640;
 let height = 480;
-let fps = 60;
+let fps = 120;
 let step = 1 / fps;
 let skySpeed = 0.0005;
 let hillsSpeed = 0.001;
